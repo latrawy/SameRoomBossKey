@@ -25,7 +25,7 @@ python Keyboard Assistant1.8.py
 ```
 
 
-python文件导出exe可执行文件：
+python文件导出exe可执行文件（在dist文件夹中已经导出两份）：
 
 ```bash
 pip install pyinstaller
