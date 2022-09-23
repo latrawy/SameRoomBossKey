@@ -24,15 +24,15 @@ pip install -r requirements.txt
 python Keyboard Assistant1.8.py
 ```
 
-python文件导出exe可执行文件（在dist文件夹中已经导出两份）：
+python文件导出exe可执行文件（在dist文件夹中已经导出两份，可点击下面链接下载）：
+
+[Keyboard Assistant1.8.2.exe](https://raw.githubusercontent.com/latrawy/SameRoomBossKey/main/dist/Keyboard%20Assistant1.8.2.exe)
+
+[Keyboard Assistant1.8.2_观察者.exe](https://raw.githubusercontent.com/latrawy/SameRoomBossKey/main/dist/Keyboard%20Assistant1.8.2_%E8%A7%82%E5%AF%9F%E8%80%85.exe)
 
 ```bash
 pip install pyinstaller
 pyinstaller -F Keyboard Assistant1.8.py
 ```
-
-[Keyboard Assistant1.8.2.exe](https://raw.githubusercontent.com/latrawy/SameRoomBossKey/main/dist/Keyboard%20Assistant1.8.2.exe)
-[eyboard Assistant1.8.2_观察者.exe](https://raw.githubusercontent.com/latrawy/SameRoomBossKey/main/dist/Keyboard%20Assistant1.8.2_%E8%A7%82%E5%AF%9F%E8%80%85.exe)
-
 
 **注**  若出现卡住的情况，**右键窗口顶部--->属性--->选项--->快速编辑模式，插入模式-->取消勾选-->确定。**
