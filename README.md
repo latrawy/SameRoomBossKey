@@ -32,3 +32,6 @@ pip install pyinstaller
 pyinstaller -F Keyboard Assistant1.8.py
 ```
 
+
+
+**注：**若出现卡住的情况，**右键窗口顶部--->属性--->选项--->快速编辑模式，插入模式-->取消勾选-->确定。**
